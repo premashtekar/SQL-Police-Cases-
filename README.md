@@ -1,3 +1,7 @@
+If you want to solve- https://sqlpd.com/
+
+
+
 🕵️‍♂️ Cracking those SQL cases was a blast! 🚀 Diving into 
 Case 1, I pulled all subscriber details from the shady site with a clean SELECT *—like unmasking digital secrets!
 😎 Case 2 had me fetching family names, join dates, and kids’ counts from the illegal service’s list—felt like a cyber detective! 
